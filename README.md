@@ -3,7 +3,7 @@ semantic.fiendish.js
 
 A simple toolbar/sidebar template for semantic-ui.
 
-Have a look at the demo: https://cdn.rawgit.com/mountainstorm/semantic.fiendish.js/master/demo.html
+Have a look at the demo: https://cdn.rawgit.com/mountainstorm/semantic.fiendish/master/demo.html
 
 
 Documentation
