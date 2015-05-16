@@ -1,0 +1,30 @@
+{
+	"groups": [
+		{
+			"name": "Group A",
+			"url": "content.groupA.json",
+			"items": [{
+				"name": "Item 1",
+				"url": "content.groupA.item1.json"
+			}]
+		},
+		{
+			"name": "Group B",
+			"url": "content.groupB.json"
+		},
+		{
+			"name": "Group C",
+			"url": "content.groupC.json",
+			"items": [{
+					"name": "Item 1",
+					"url": "content.groupC.item1.json"
+			}, {
+					"name": "Item 2",
+					"url": "content.groupC.item2.json"
+			}, {
+					"name": "Item 3",
+					"url": "content.groupC.item3.json"
+			}]
+		}		
+	]
+}
